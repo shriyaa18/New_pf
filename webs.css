@@ -1,5 +1,5 @@
 #home-page{
-  background-image: url('../abc/WhatsApp Image 2020-04-20 at 22.43.35.jpeg');
+  background-image: url('abc/WhatsApp Image 2020-04-20 at 22.43.35.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -29,7 +29,7 @@ a{
 }
 
 #Contact{
-  background-image: url('../abc/adam-solomon-WHUDOzd5IYU-unsplash.jpg');
+  background-image: url('abc/adam-solomon-WHUDOzd5IYU-unsplash.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -44,7 +44,7 @@ a{
 }
 
 #about{
-  background-image: url('../abc/working-from-home.jpg');
+  background-image: url('abc/working-from-home.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -58,7 +58,7 @@ a{
 }
 
 #achievements{
-  background-image: url('../abc/dose-media-bU6JyhSI6zo-unsplash.jpg');
+  background-image: url('abc/dose-media-bU6JyhSI6zo-unsplash.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
